@@ -36,7 +36,6 @@ alignment.vert = xlwt.Alignment.VERT_CENTER
 ExcelStyle.alignment = alignment
 
 #上送文件
-#本部分尚未完成，待回校测试
 def UpLoad():
     print('请选择上送方式：')
     print('[A]直接发送Post请求登录后Send_Key(默认)')
