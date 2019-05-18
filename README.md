@@ -8,7 +8,7 @@
 
   ​	由于较多的同学都喜欢随手把课件扔在桌面上影响美观，因此写了一个这样子的程序来定期整理桌面上的文件。支持简单的日志。
 
-- Automatic attendance system（简化晨报系统）
+- Automatic attendance system（简化晨报系统）(针对校内使用)
 
   ​	用于简化晨报人员的工作。
 
