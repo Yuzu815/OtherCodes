@@ -18,7 +18,7 @@
 
   ​	特别是班内电脑配置"较高"，打开Excel和Firefox时都会比较卡。因此简化整个考勤步骤就变得很有必要了。
 
-  ![](https://github.com/YZ-HL/OtherCodes/tree/master/images/Automatic attendance system.png)
+  ![](https://github.com/YZ-HL/OtherCodes/raw/master/images/Automatic attendance system.png)
 
 
 
@@ -28,7 +28,7 @@
 
   ​	因此写了两个简单的vbs，支持转换与vbs同目录下的Office文件（目前只包括doc，docx，ppt，pptx）。原理是调用Office的导出功能来实现批量转换，因此使用这个程序的电脑上一定要预装Office套件（Microsoft或者WPS都行）
 
-  ​	![](https://github.com/YZ-HL/OtherCodes/tree/master/images/Office To PDF.png)
+  ​	![](https://github.com/YZ-HL/OtherCodes/raw/master/images/Office To PDF.png)
 
 
 
@@ -38,4 +38,4 @@
 
   ​	现在将其打包放在这里，方便提供智学网的查询服务。
 
-  ![](https://github.com/YZ-HL/OtherCodes/tree/master/images/Query.png?raw=true)
+  ![](https://github.com/YZ-HL/OtherCodes/raw/master/images/Query.png)
