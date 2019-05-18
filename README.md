@@ -38,4 +38,4 @@
 
   ​	现在将其打包放在这里，方便提供智学网的查询服务。
 
-  ![](https://github.com/YZ-HL/OtherCodes/tree/master/images/Query.png)
+  ![](https://github.com/YZ-HL/OtherCodes/tree/master/images/Query.png?raw=true)
