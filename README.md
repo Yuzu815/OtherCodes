@@ -26,7 +26,7 @@
 
   ​	班上用Kindle，IReader的同学越来越多，因此一个个转换课件就很成问题。
 
-  ​	因此写了两个简单的vbs，支持转换与vbs同目录下的Office文件（目前只包括doc，docx，ppt，pptx）。原理是调用Office的导出功能来实现批量转换，因此使用这个程序的电脑上一定要预装Office套件（Microsoft或者WPS都行）
+  ​	因此写了两个简单的vbs，支持转换与vbs同目录下的Office文件（目前只包括doc，docx，ppt，pptx）。原理是调用Office的导出功能来实现批量转换，因此使用这个程序的电脑上一定要预装Office套件（Microsoft或者WPS都行）（UPD：目前在Windows-LTSC，WPS2019专业版下可用，其他情况下暂未发现可用。）
 
   ​	![](https://github.com/YZ-HL/OtherCodes/blob/master/images/Office%20To%20PDF.png?raw=true)
 
