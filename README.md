@@ -46,6 +46,6 @@
 
 	这个程序用于方便同学们反馈意见和建议，帮助及时解决问题。
 	
-	![](https://github.com/YZ-HL/OtherCodes/blob/master/images/feedback1?raw=true)
+	![](https://github.com/YZ-HL/OtherCodes/blob/master/images/feedback1.PNG?raw=true)
 
-	![](https://github.com/YZ-HL/OtherCodes/blob/master/images/feedback2?raw=true)
+	![](https://github.com/YZ-HL/OtherCodes/blob/master/images/feedback2.PNG?raw=true)
