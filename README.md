@@ -1,4 +1,4 @@
-这是一个放各种小型代码的仓库，主要是自己在日常生活中需要实现需求时写的轮子。
+﻿这是一个放各种小型代码的仓库，主要是自己在日常生活中需要实现需求时写的轮子。
 
 #### 简要介绍
 
@@ -39,3 +39,13 @@
   ​	现在将其打包放在这里，方便提供智学网的查询服务。
 
   ![](https://github.com/YZ-HL/OtherCodes/blob/master/images/ZHIXUE%20Query.png?raw=true)
+
+
+
+- Feedback（电教意见反馈）
+
+	这个程序用于方便同学们反馈意见和建议，帮助及时解决问题。
+	
+	![](https://github.com/YZ-HL/OtherCodes/blob/master/images/feedback1?raw=true)
+
+	![](https://github.com/YZ-HL/OtherCodes/blob/master/images/feedback2?raw=true)
