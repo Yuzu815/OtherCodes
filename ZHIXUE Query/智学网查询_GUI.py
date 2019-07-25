@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QLineEdit, \
     QPushButton, QGridLayout, QTableWidget, QTableWidgetItem, QHeaderView
 from PyQt5.QtCore import Qt
 from zhixuewang import Zhixuewang
-from zhixuewang.exceptions import UserOrPassError
+#from zhixuewang.exceptions import UserOrPassError
 import sys
 
 class MainGUI(QWidget):
@@ -109,7 +109,7 @@ class MainGUI(QWidget):
 
 
     def atActivatedExam(self, row, column):
-        subject = self.zxw.get_self_grade(self.examList[row].examId)
+        subject = self.zxw.get_self_mark(self.examList[row])
         self.scoreTable.setRowCount(len(subject))
         self.classScoreInfoTable.setRowCount(len(subject))
         self.gradeScoreInfoTable.setRowCount(len(subject))

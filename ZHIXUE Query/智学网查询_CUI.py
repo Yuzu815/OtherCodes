@@ -4,7 +4,7 @@ from getpass import getpass
 import os
 import platform
 from zhixuewang import Zhixuewang
-from zhixuewang.exceptions import UserOrPassError
+#from zhixuewang.exceptions import UserOrPassError
 def clear_screen(): 
     os_version = platform.platform()
     if os_version[0] == 'W':
@@ -12,7 +12,7 @@ def clear_screen():
     else:
         os.system('clear')
 
-
+os.system("color F0")
 print('Init finish. Wait for input.')
 zxw = None
 while zxw == None:
@@ -44,7 +44,7 @@ while op != 2:
             is_vaild_exam_num = True
 
     clear_screen()
-    grades = zxw.get_self_grade(exams[choosen_examnum].examId)
+    grades = zxw.get_self_mark(exams[choosen_examnum])
 
     print(f'Self Score Table: {exams[choosen_examnum].examName}')
     print('Name - Score - ClassRank')
