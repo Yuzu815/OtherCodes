@@ -2,6 +2,12 @@
 
 ​	这是一份能够帮助各班考勤员快速完成考勤任务的程序。
 
+​	你甚至可以借助任务计划程序来完成自动化考勤（全勤情况总是多于缺勤情况，因此可以借此解放双手）
+
+### 效果展示
+
+![](https://github.com/YZ-HL/OtherCodes/blob/master/images/Automatic%20attendance%20system.png?raw=true)
+
 ### 注意事项
 
 1. 你需要准备一份名为**data.csv**的文件用来存放同学们的信息，在这个文件夹下有一份示例文件可供参考，所有参数都要求与示例文件相一致。**data.csv**可通过另存为Excel表得到。

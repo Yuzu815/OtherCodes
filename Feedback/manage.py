@@ -82,14 +82,11 @@ def solve2():
             solve_cnt2 += 1
 
 def rewrite(num):
-        #print("该功能完善中...")
-        #os.system('pause')
         if 'P' in num:
                 f1 = open("BUG.txt", 'r', encoding='UTF-8')
                 line = f1.readlines()
                 f1.close()
                 f1 = open("BUG.txt", 'w', encoding='UTF-8')
-                #print("DEBUG:"+line[int(dicts[num])-1])
                 line[int(dicts[num])-1] = "处理情况：已解决\n"
                 f1.writelines(line)
                 f1.close()
@@ -152,6 +149,7 @@ def DJ():
     number = getpass()
     md5 = hashlib.md5()
     md5.update(number.encode())
+    #请自行替换此处密码，使用md5加密
     if(md5.hexdigest() == "4cd00976f9ef1128caca7e0e2a15a80a"):
         print("验证成功，正在跳转管理页面...")
         man()

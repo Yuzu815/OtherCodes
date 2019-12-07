@@ -1,3 +1,5 @@
+#该份代码来源百度，侵删
+
 import comtypes.client
 import os
 
